@@ -9,5 +9,5 @@ I don’t have prior experience with open source projects yet, but I’ve worked
 
 One of the strongest characteristics I bring to a team is my problem solving ability, which I've developed through programming coursework and hands-on cybersecurity training. I also value communication and collaboration, both of which I’ve practiced through team-based projects and seminars.
 
-This summer, I’d like to improve my resourcefulness—learning how to better navigate open source documentation, new tools, and unfamiliar codebases. To do this, I plan to stay curious, ask thoughtful questions, and embrace a growth mindset by treating every challenge as an opportunity to learn.
+This summer, I’d like to improve my resourcefulness—learning how to better navigate open source documentation, new tools, and unfamiliar codebases. To do this, I plan to stay curious, ask thoughtful questions, and embrace a growth mindset by treating every challenge as an opportunity to learn. I would love to connect with with you on Linkedin[www.linkedin.com/in/devonbobo]
 
